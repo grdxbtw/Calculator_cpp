@@ -1,0 +1,7 @@
+﻿  Kalkulator.cpp
+  parallel_Calculator.cpp
+C:\Users\Zhema\Documents\cpp_projects\newCalculator\newCalculator\Kalkulator.h(34,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zhema\Documents\cpp_projects\newCalculator\newCalculator\Kalkulator.h(41,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zhema\Documents\cpp_projects\newCalculator\parallel_Calculator\parallel_Calculator.cpp(29,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  parallel_Calculator.vcxproj -> C:\Users\Zhema\Documents\cpp_projects\newCalculator\x64\Debug\parallel_Calculator.exe
