@@ -1,0 +1,4 @@
+﻿  unit_tests_calc.cpp
+C:\Users\Zhema\Documents\cpp_projects\newCalculator\newCalculator\Kalkulator.h(34,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zhema\Documents\cpp_projects\newCalculator\newCalculator\Kalkulator.h(41,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  unit_tests_calc.vcxproj -> C:\Users\Zhema\Documents\cpp_projects\newCalculator\x64\Debug\unit_tests_calc.exe
